@@ -1,0 +1,135 @@
+/* Primera caja */
+
+#redBox {
+
+       background-color: red;
+       width: 20%;
+       padding: 0px;
+       height: 40vh;
+       top: 40px;
+
+}
+
+.purpleBox {
+      background-color: purple;
+      width: 10%;
+      padding: 0px;
+      height: 20vh;
+      margin-top: 10px;
+      position: absolute;
+      top: 70px;
+      left: 80px;
+
+}
+
+.yellowBox {
+      background-color: yellow;
+      width: 5%;
+      padding: 0px;
+      height: 10vh;
+      margin-top: 10px;
+      position: absolute;
+      top: 70px;
+      left: 80px;
+
+}
+
+/* Segunda caja */
+
+#blueBox {
+
+       background-color: blue;
+       width: 20%;
+       padding: 0px;
+       height: 40vh;
+       margin-top: 10px;
+
+}
+
+.greenBox {
+      background-color: green;
+      width: 10%;
+      padding: 0px;
+      height: 20vh;
+      margin-top: 10px;
+      position: absolute;
+      top: 70px;
+      left: 80px;
+
+}
+
+.blackBox {
+      background-color: black;
+      width: 5%;
+      padding: 0px;
+      height: 10vh;
+      margin-top: 10px;
+      position: absolute;
+      top: 0px;
+      left: 8px;
+
+}
+
+/* Tríptico */
+
+h1{
+      background:#e4980a;
+      width: 100%;
+      margin: 0;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      text-align: center;
+  }
+
+#total{
+      border: 1px solid white;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 40px;
+      width: 90%;
+      overflow: auto;
+}
+
+
+.izquierda {
+      background: white;
+      border: 1px solid gray;
+      float: left;
+      height: 500px;
+      width: 33%;
+}
+
+p {
+      padding: 10px}
+
+.central {
+      background: white;
+      border: 1px solid gray;
+      float: left;
+      height: 500px;
+      width: 33%;
+
+}
+
+h4 {
+      text-align: center}
+
+
+.derecha {
+      background: white;
+      border: 1px solid gray;
+      float: left;
+      height: 500px;
+      width: 33%;
+
+}
+
+h1
+{
+    font-size: 18px;
+}
+
+img {
+   padding-left: 40px;
+   width: 65%;
+}
